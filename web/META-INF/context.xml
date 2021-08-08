@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/J3.L.P0016">
+    <Resource auth="Container" 
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+              name="DBConn" 
+              password="123" 
+              type="javax.sql.DataSource" 
+              url="jdbc:sqlserver://localhost;databasename=ResourceSharing" 
+              username="sa">
+    </Resource>
+    <!--
+    <Resource auth="Container" 
+              driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+              name="DBConnAmazon" 
+              password="12345678" 
+              type="javax.sql.DataSource" 
+              url="jdbc:sqlserver://testdatabaseaws.c3lyzgwnjxrk.ap-southeast-1.rds.amazonaws.com;databasename=ResourceSharing" 
+              username="admin">
+    </Resource>
+    -->
+</Context>
