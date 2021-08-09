@@ -21,7 +21,7 @@
   - Login with Google account-
   
  ### Some images of the application:
-  ![alt text](https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.png?raw=true)
+  ![alt text](https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.jpg?raw=true)
   
   ![alt text](https://github.com/LQVinh9/ResourceSharing/blob/main/image/image2.png?raw=true)
   
