@@ -20,7 +20,7 @@
   - Request process
   - Request history
   - Store database on Amazon web service
-  - Login with Google account-
+  - Login with Google account
   
  ### Some images of the application:
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.JPG" width="60%" height="60%">
