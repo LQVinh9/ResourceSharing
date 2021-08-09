@@ -23,15 +23,15 @@
  ### Some images of the application:
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.JPG" width="60%" height="60%">
   <br />
-  # 
+  <hr />
   <br />
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image2.png" width="100%" height="100%">
   <br />
-  #
+  <hr />
   <br />
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image3.png" width="100%" height="100%">
   <br />
-  # 
+  <hr />
   <br />
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image4.png" width="100%" height="100%">
   
