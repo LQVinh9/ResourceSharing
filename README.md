@@ -21,11 +21,11 @@
   - Login with Google account-
   
  ### Some images of the application:
-  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.JPG" width="100%" height="100%">
+  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image1.JPG" width="60%" height="60%">
   
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image2.png" width="100%" height="100%">
   
-  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image3.png" width="100%" height="100%">
+  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image3.png" width="200%" height="200%">
   
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image4.png" width="100%" height="100%">
   
