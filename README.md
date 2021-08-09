@@ -25,7 +25,7 @@
   
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image2.png" width="100%" height="100%">
   
-  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image3.png" width="200%" height="200%">
+  <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image3.png" width="100%" height="100%">
   
   <img src="https://github.com/LQVinh9/ResourceSharing/blob/main/image/image4.png" width="100%" height="100%">
   
