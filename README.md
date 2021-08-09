@@ -1,7 +1,9 @@
 # ResourceSharing
  *The application was developed on May 12, 2021*
  
- <img src="https://img.shields.io/appveyor/build/gruntjs/grunt">
+ <img src="https://img.shields.io/appveyor/build/gruntjs/grunt"> 
+ 
+ Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
  
  Enterprise resource sharing website application.
  
