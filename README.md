@@ -3,9 +3,9 @@
  
  <img src="https://img.shields.io/appveyor/build/gruntjs/grunt"> 
  
- Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
- 
  Enterprise resource sharing website application.
+ 
+ Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
  
  ### Purpose of the software:
   - The application helps to control borrowing in the company. 
