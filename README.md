@@ -1,7 +1,7 @@
 # ResourceSharing
  *The application was developed on May 12, 2021*
  
- <img src="https://img.shields.io/appveyor/build/gruntjs/grunt"> <img src="https://img.shields.io/badge/build-passing-green">
+ <img src="https://img.shields.io/appveyor/build/gruntjs/grunt"> <img src="https://img.shields.io/badge/build-passing-brightgreen">
  
  Enterprise resource sharing website application.
  
