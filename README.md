@@ -3,6 +3,8 @@
  
  <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-3.71%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
  
+  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/ResourceSharing?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/ResourceSharing?style=social)
+ 
  Enterprise resource sharing website application.
  
  Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
