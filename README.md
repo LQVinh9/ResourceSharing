@@ -1,9 +1,7 @@
 # ResourceSharing
  *The application was developed on May 12, 2021*
  
- <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-3.71%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange">
- 
-  ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/ResourceSharing?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/LQVinh9/ResourceSharing?style=social)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/LQVinh9/ResourceSharing?style=social) <img src="https://img.shields.io/badge/build-passing-brightgreen"> <img src="https://img.shields.io/badge/size-3.71%20MB-blue"> <img src="https://img.shields.io/badge/language-java-orange"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLQVinh9%2FResourceSharing&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
  Enterprise resource sharing website application.
  
