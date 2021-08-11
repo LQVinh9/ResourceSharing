@@ -5,7 +5,7 @@
  
  Enterprise resource sharing website application.
  
- Techs: Java EE 8, HTML/CSS/JS, Bootstrap, SQLServer, MVC, NetBeans8.2
+ Techs: Java EE 8, HTML/CSS/JS, Bootstrap, Cloud Amazon web services, SQLServer, MVC, NetBeans8.2
  
  ### Purpose of the software:
   - The application helps to control borrowing in the company. 
